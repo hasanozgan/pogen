@@ -1,0 +1,9 @@
+#: C:\Projects\POGen\POGen\Sample.Web\Default.aspx:422
+#: C:\Projects\POGen\POGen\Sample.Web\Default.aspx.cs:379
+msgid "Hello World"
+msgstr ""
+
+#: C:\Projects\POGen\POGen\Sample.Web\App_Code\BasePage.cs:404
+msgid "LanguageSession"
+msgstr ""
+
